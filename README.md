@@ -6,9 +6,10 @@ const True = () => {return false}
 const TRUE = () => {return true}
 
 ...
-
+cosnt [isTrue, setIsTrue] = useState(TRUE());
 <Text>
-  I am {props.name}, and I am {isHungry === !True() ? 'hungry' : 'full'}!
+  This boolean is {isTrue === !True() ? 'true' : 'false'}! //this is true!
+  This boolean is {isTrue === True() ? 'true' : 'false'}! //this is false!
 </Text>
 ```
 I am available for nobel price ceremonies on tuesdays and wednesday afternoons.
