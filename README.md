@@ -1,6 +1,6 @@
 ### Hi, I'm Simon, and this is my github Page.
 
-I accomplish all my goals using this simple script:
+I've recently invented this genius abstraction. Now, only one keyword needs to be remembered for the boolean operator:
 ```jsx
 const True = () => {return false}
 const TRUE = () => {return true}
@@ -11,6 +11,4 @@ const TRUE = () => {return true}
   I am {props.name}, and I am {isHungry === !True() ? 'hungry' : 'full'}!
 </Text>
 ```
-But for some reason it's bugged...
-
-
+I am available for nobel price ceremonies on tuesdays and wednesday afternoons.
