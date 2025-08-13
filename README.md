@@ -1,6 +1,8 @@
-### 👋 Hi there!
+### 👋 Hi there, I'm Simon!
 
-I'm a fullstack developer, currently working on enterprise API migrations and systems integration. 
+I'm a fullstack developer, currently building an enterprise API in ASP.NET Core. 
+
+## Technologies 🛠
 
 ### I mainly use these technologies professionally
 
@@ -9,6 +11,7 @@ I'm a fullstack developer, currently working on enterprise API migrations and sy
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />
 </div>
 
 ### But I also have experience with these technologies
@@ -20,30 +23,18 @@ I'm a fullstack developer, currently working on enterprise API migrations and sy
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
 </div>
 
-### Here is some of my work!
+## Here is some of my work!
 
-#### The Donut 🍩 (In C#)
-[Link to repo](https://github.com/SimonHls/CSharpASCIIDonut)
+### The Donut 🍩 (In C#)
+
+<img src="https://github.com/SimonHls/SimonHls/raw/main/donut.png" width="300" align="left" />
+
+A rotating donut, spinning around the z and x-axis. The animation is played in the command line using ASCII-characters to indicate brightness.
+
+This project is my implementation of the math described in [this article.](https://www.a1k0n.net/2011/07/20/donut-math.html)
+
+[Link to donut repo](https://github.com/SimonHls/CSharpASCIIDonut)
+
+<br clear="both" />
 
 
-
-I feel like the ASCII-Donut is pretty famous. I think the original is in C, my version is in C#.
-
-
-
-
-
-
-I've also invented this interesting abstraction. Now, only one keyword needs to be remembered for the boolean operator:
-```jsx
-const True = () => {return false}
-const TRUE = () => {return true}
-
-...
-const [isTrue, setIsTrue] = useState(TRUE());
-<Text>
-  This boolean is {isTrue === !True() ? 'true' : 'false'}! //this is true!
-  This boolean is {isTrue === True() ? 'true' : 'false'}! //this is false!
-</Text>
-```
-I am available for nobel price ceremonies on tuesdays and wednesday afternoons.
