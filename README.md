@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Simon!
 
-I'm a fullstack developer, currently building an enterprise API in ASP.NET Core. 
+I'm a fullstack developer, currently working in enterprise API development in ASP.NET Core. 
 
 ## Technologies 🛠
 
