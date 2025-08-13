@@ -4,7 +4,7 @@ I'm a fullstack developer, currently working in enterprise API development in AS
 
 ## Technologies 🛠
 
-### I mainly use these technologies professionally
+### I mainly use these technologies
 
 <div style="display: flex; flex-direction: row; gap: 10px">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
