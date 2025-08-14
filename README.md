@@ -29,7 +29,7 @@ I'm a fullstack developer, currently working in enterprise API development in AS
 
 <img src="https://github.com/SimonHls/SimonHls/raw/main/donut.png" width="300" align="left" />
 
-A rotating donut, spinning around the z and x-axis. The animation is played in the command line using ASCII-characters to indicate brightness.
+A rotating donut, spinning around the Z and Y-axis. The animation is played in the command line using ASCII-characters to indicate brightness.
 
 This project is my implementation of the math described in [this article.](https://www.a1k0n.net/2011/07/20/donut-math.html)
 
