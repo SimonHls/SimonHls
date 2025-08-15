@@ -37,4 +37,16 @@ This project is my implementation of the math described in [this article.](https
 
 <br clear="both" />
 
+### Linear Optimization
+
+<img src="https://github.com/SimonHls/SimonHls/raw/main/network.png" width="300" align="left" />
+
+A collection of linear optimization problems, solved using linear programming and Googles OR-Tools library. Linear programming is a way of optimally solving optimization problems such as TSPs or shopfloor scheduling. 
+
+This project is written primarily in python.
+
+[Link to repo](https://github.com/SimonHls/OperationsResearch)
+
+<br clear="both" />
+
 
