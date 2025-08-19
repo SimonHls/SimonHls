@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Simon!
+### 👋 Hi there!
 
 I'm a fullstack developer, currently working in enterprise API development in ASP.NET Core. 
 
@@ -23,7 +23,7 @@ I'm a fullstack developer, currently working in enterprise API development in AS
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
 </div>
 
-## Here is some of my work!
+## Here is some of my work
 
 ### The Donut 🍩 (In C#)
 
